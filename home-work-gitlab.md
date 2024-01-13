@@ -9,7 +9,7 @@
 
 Решение 1
 
-Устанавливает гитлаб на свой сервер
+Устанавливаем гитлаб на свой сервер
 
 ![ALT TEXT](https://github.com/mezhibo/Home-work-gitlab/blob/2b4d804f4db2acf8612294887f7888f01f19f684/img/gitlab1.jpg)
 
