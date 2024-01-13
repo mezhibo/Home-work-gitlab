@@ -42,5 +42,17 @@
 ![ALT TEXT](https://github.com/mezhibo/Home-work-gitlab/blob/54e2bfa8e82d707034b8254abc8ada0e584117c0/img/runner1.jpg)
 
 
+Создаем фаил .gitlab-ci.yml с содержимым 
+
+![ALT TEXT](https://github.com/mezhibo/Home-work-gitlab/blob/12c0693dfb8449fa4ee1b51df90225881068d9a3/img/runner2.jpg)
+
+
+Делаем коммит и пушим его в наш гитлаб 
+
+заходит в наш проект на гитлабе и видим наш файл с инструкциями 
+
+
+![ALT TEXT](https://github.com/mezhibo/Home-work-gitlab/blob/b690e255ac193d2b71677966ac7235977e09a100/img/runner3.jpg)
+
 
 
