@@ -35,3 +35,12 @@
 
 
 Решение 2
+
+
+Клонируем себе репозиторий на втору машину с гит ранером 
+
+![ALT TEXT](https://github.com/mezhibo/Home-work-gitlab/blob/54e2bfa8e82d707034b8254abc8ada0e584117c0/img/runner1.jpg)
+
+
+
+
